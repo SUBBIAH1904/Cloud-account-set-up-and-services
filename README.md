@@ -1,5 +1,8 @@
 # Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure
 
+### Name   : SUBBIAH S
+### Reg no : 212223220111
+
 # Aim:
 To create a cloud account in Microsoft Azure and to explore its services such as Compute, IoT, and Security.
 
